@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3078f224-fa13-4ae3-bcd9-4d9e652545c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5jokesappv2/services/JokeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5jokesappv2/services/JokeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5jokesappv2/controllers/JokeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="maven-deps" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674506425296</updated>
-      <workItem from="1674506426851" duration="2916000" />
+      <workItem from="1674506426851" duration="3515000" />
     </task>
     <task id="LOCAL-00001" summary="Created the Spring Boot project">
       <created>1674506904904</created>
@@ -97,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674507712963</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created Joke Service">
+      <created>1674509426393</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674509426393</updated>
+    </task>
+    <task id="LOCAL-00005" summary="a mistake in the JokeServiceImpl">
+      <created>1674509669923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674509669923</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +121,9 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Created the Spring Boot project" />
     <MESSAGE value="Added dependency guru.springframework:chuck-norris-for-actuator:2.4.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added dependency guru.springframework:chuck-norris-for-actuator:2.4.0" />
+    <MESSAGE value="Created Joke Service" />
+    <MESSAGE value="a mistake in the JokeServiceImpl" />
+    <option name="LAST_COMMIT_MESSAGE" value="a mistake in the JokeServiceImpl" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
