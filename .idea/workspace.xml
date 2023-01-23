@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3078f224-fa13-4ae3-bcd9-4d9e652545c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/spring5jokesappv2/controllers/JokeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +17,14 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="maven-deps" />
+        <entry key="$PROJECT_DIR$" value="create_Joke_Service" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +41,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -73,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674506425296</updated>
-      <workItem from="1674506426851" duration="3515000" />
+      <workItem from="1674506426851" duration="3893000" />
     </task>
     <task id="LOCAL-00001" summary="Created the Spring Boot project">
       <created>1674506904904</created>
@@ -110,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674509669923</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="create JokeController">
+      <created>1674510166551</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674510166551</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +131,8 @@
     <MESSAGE value="Added dependency guru.springframework:chuck-norris-for-actuator:2.4.0" />
     <MESSAGE value="Created Joke Service" />
     <MESSAGE value="a mistake in the JokeServiceImpl" />
-    <option name="LAST_COMMIT_MESSAGE" value="a mistake in the JokeServiceImpl" />
+    <MESSAGE value="create JokeController" />
+    <option name="LAST_COMMIT_MESSAGE" value="create JokeController" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
